@@ -1,7 +1,5 @@
 # PythonProjects
 
-Certainly! Below is a template for your GitHub README file:
-
 # 100 Days of Programming and Cybersecurity Challenge
 
 Welcome to my 100 Days of Programming and Cybersecurity Challenge repository! 🚀
