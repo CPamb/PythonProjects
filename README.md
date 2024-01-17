@@ -1,6 +1,6 @@
 # PythonProjects
 
-# 100 Days of Programming and Cybersecurity Challenge
+# 100 Days of Programming Challenge
 
 Welcome to my 100 Days of Programming and Cybersecurity Challenge repository! 🚀
 
