@@ -25,10 +25,6 @@ Feel free to explore the projects and check out the daily updates in the respect
 
 ... (continue updating for each day)
 
-## Support and Feedback
-
-Your support and feedback are invaluable! If you have suggestions, improvements, or just want to share your thoughts, please feel free to open an issue or reach out via [email@example.com](mailto:email@example.com).
-
 ## Connect with Me
 
 Let's connect! You can find me on [LinkedIn](https://www.linkedin.com/in/christopherpambou/)!
