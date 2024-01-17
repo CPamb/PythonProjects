@@ -18,10 +18,7 @@ Feel free to explore the projects and check out the daily updates in the respect
 
 ## Daily Updates
 
-- **Day 1:** [Project Title](/day-01)
-  - Brief description of the project and its goals.
-  - Code snippets and explanations.
-  - Challenges encountered and how they were overcome.
+- **Day 1:** [Band Name Generator](https://github.com/CPamb/PythonProjects/tree/main/Day%201%3A%20Band%20Name%20Generator)
 
 ... (continue updating for each day)
 
