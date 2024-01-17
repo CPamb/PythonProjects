@@ -31,7 +31,7 @@ Your support and feedback are invaluable! If you have suggestions, improvements,
 
 ## Connect with Me
 
-Let's connect! You can find me on [LinkedIn](https://www.linkedin.com/in/yourusername) and [Twitter](https://twitter.com/yourusername). I'm open to collaborations and discussions related to programming and cybersecurity.
+Let's connect! You can find me on [LinkedIn](https://www.linkedin.com/in/christopherpambou/)!
 
 ## Acknowledgments
 
