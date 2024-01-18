@@ -19,6 +19,7 @@ Feel free to explore the projects and check out the daily updates in the respect
 ## Daily Updates
 
 - **Day 1:** [Band Name Generator](https://github.com/CPamb/PythonProjects/tree/main/Day%201%3A%20Band%20Name%20Generator)
+- **Day 2:** [Tips/bill Calculator](https://github.com/CPamb/PythonProjects/tree/main/Day%202%3A%20Bill-Tips%20Calculator)
 
 ... (continue updating for each day)
 
