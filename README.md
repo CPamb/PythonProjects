@@ -21,6 +21,7 @@ Feel free to explore the projects and check out the daily updates in the respect
 - **Day 1:** [Band Name Generator](https://github.com/CPamb/PythonProjects/tree/main/Day%201%3A%20Band%20Name%20Generator)
 - **Day 2:** [Tips/bill Calculator](https://github.com/CPamb/PythonProjects/tree/main/Day%202%3A%20Bill-Tips%20Calculator)
 - **Day 3:** [Treasure Island](https://github.com/CPamb/PythonProjects/tree/main/Day%203%3A%20Treasure%20Island)
+- **Day 4:** [Rock, Paper, Scissors](https://github.com/CPamb/PythonProjects/tree/main/Day%204:%20Rock-Paper-Scissor)
 
 ... (continue updating for each day)
 
