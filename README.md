@@ -23,6 +23,7 @@ Feel free to explore the projects and check out the daily updates in the respect
 - **Day 3:** [Treasure Island](https://github.com/CPamb/PythonProjects/tree/main/Day%203%3A%20Treasure%20Island)
 - **Day 4:** [Rock, Paper, Scissors](https://github.com/CPamb/PythonProjects/tree/main/Day%204:%20Rock-Paper-Scissor)
 - **Day 5:** [Password Generator](https://github.com/CPamb/PythonProjects/tree/main/Day%205:%20Password%20Generator)
+- **Day 6:** [Hangman](https://github.com/CPamb/PythonProjects/tree/main/Day%206%3A%20Hangman)
 
 ... (continue updating for each day)
 
