@@ -25,6 +25,7 @@ Feel free to explore the projects and check out the daily updates in the respect
 - **Day 5:** [Password Generator](https://github.com/CPamb/PythonProjects/tree/main/Day%205:%20Password%20Generator)
 - **Day 6:** [Hangman](https://github.com/CPamb/PythonProjects/tree/main/Day%206%3A%20Hangman)
 - **Day 7:** [Blind Auction](https://github.com/CPamb/PythonProjects/tree/main/Day%207:%20Blind%20Auction)
+- **Day 8:** [Caesar Cipher](https://github.com/CPamb/PythonProjects/tree/main/Day%208:%20Caesar%20Cipher)
 
 ... (continue updating for each day)
 
