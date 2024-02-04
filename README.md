@@ -26,6 +26,7 @@ Feel free to explore the projects and check out the daily updates in the respect
 - **Day 6:** [Hangman](https://github.com/CPamb/PythonProjects/tree/main/Day%206%3A%20Hangman)
 - **Day 7:** [Blind Auction](https://github.com/CPamb/PythonProjects/tree/main/Day%207:%20Blind%20Auction)
 - **Day 8:** [Caesar Cipher](https://github.com/CPamb/PythonProjects/tree/main/Day%208:%20Caesar%20Cipher)
+- **Day 9:** [Simple Calculator](https://github.com/CPamb/PythonProjects/tree/main/Day%209%3A%20Simple%20Calculator)
 
 ... (continue updating for each day)
 
